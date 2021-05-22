@@ -1,0 +1,39 @@
+body{
+    background: url(assets/images/intro.jpg);
+    justify-content: center;
+}
+.text{
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+.text1{
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(255, 255, 255);
+}
+.textdiv{
+    background-color: rgba(146, 2, 182, 0.644);
+    width: 600px;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    -webkit-box-shadow: -1px 1px 31px 25px rgb(214, 25, 208);
+    -moz-box-shadow: -1px 1px 31px 25px rgb(214, 25, 208);
+    box-shadow: -1px 1px 31px 25px rgb(214, 25, 208);
+    margin-top: 120px; 
+    border-radius: 17px; 
+    margin-left: 630px;
+    border-width: 1px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+.header__logo {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+a{
+    color: white;
+}
